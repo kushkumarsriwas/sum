@@ -1,2 +1,1 @@
-# sum
-sum of two no.
+This code is about the sum of two numbers in python programming language
